@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace trabalho_01
 {
-    class Program
+    class Principal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá");
-            
-
-
+            new Sistema();
         }
     }
 }
