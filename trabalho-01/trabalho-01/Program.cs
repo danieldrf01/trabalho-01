@@ -10,6 +10,10 @@ namespace trabalho_01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá");
+            
+
+
         }
     }
 }
