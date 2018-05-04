@@ -86,7 +86,7 @@ namespace trabalho_01
 			    }
                 if (!achou)
 	            {
-                   Console.WriteLine("Nome não encontrao");
+                   Console.WriteLine("Turma não encontrao");
                 }
 
             }
